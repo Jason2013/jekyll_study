@@ -22,6 +22,9 @@ This website is created with Jekyll. [Other Jekyll websites](https://github.com/
 
 这个网站是由 Jekyll 创建的。 [其它的 Jekyll 网站](https://github.com/mojombo/jekyll/wiki/Sites).
 
+- [ ] Unchecked
+- [x] Checked
+{: style='list-style-type: none'}
 
 
 ### What does Jekyll Do?
