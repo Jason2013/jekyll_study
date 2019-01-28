@@ -26,6 +26,16 @@ This website is created with Jekyll. [Other Jekyll websites](https://github.com/
 - [x] Checked
 {: style='list-style-type: none'}
 
+``` cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "hello, world!" << endl;
+    return 0;
+}
+```
 
 ### What does Jekyll Do?
 
