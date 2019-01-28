@@ -26,7 +26,7 @@ This website is created with Jekyll. [Other Jekyll websites](https://github.com/
 - [x] Checked
 {: style='list-style-type: none'}
 
-``` cpp
+``` c++
 #include <iostream>
 using namespace std;
 
