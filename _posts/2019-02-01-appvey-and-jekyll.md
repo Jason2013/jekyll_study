@@ -1,8 +1,8 @@
 ---
 layout: post
-category : 学习
+category: 前端
 tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial, 图形]
+tags : [jekyll, material]
 ---
 
 # Jekyll & AppVeyor
